@@ -11,6 +11,10 @@
   box-shadow: 3px 0px 3px 1px rgba(0, 0, 0, 0.5);
   background: rgb(26, 56, 89) !important;
 }
+.hills {
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,0) 37%, rgba(254,220,163,0.7189250700280112) 61%, rgba(254,165,126,0.8589810924369747) 82%, rgba(221,137,160,1) 100%);
+}
 .email-container {
   min-width: 250px;
 }
